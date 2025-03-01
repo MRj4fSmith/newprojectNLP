@@ -1,3 +1,0 @@
-best_model_name = results_df.iloc[0]['model']
-best_model = results_df.iloc[0]['model_object']
-print(f"Best model is: {best_model_name}")
